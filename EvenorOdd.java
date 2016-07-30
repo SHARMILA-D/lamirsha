@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Posneg
+class positivenum
 {
 	public static void main(String[] args)
 	{
